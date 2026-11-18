@@ -27,7 +27,7 @@ To extract the hash of a password-protected PDF and recover its password using J
 
 1. Downloaded and set up John the Ripper and Johnny.
 
-   ![Johnny interface](screenshots/PM1_Johnny.PNG)
+   ![Johnny interface](PM1_Johnny.PNG)
 
 2. Used onlinehashcrack.com to extract the hash value from the password-protected PDF provided by Networkwalks. The hash began with `$pdf$...`.
 3. Copied the hash value and pasted it into Notepad, then saved it as a `.txt` file.
@@ -35,9 +35,9 @@ To extract the hash of a password-protected PDF and recover its password using J
 5. Clicked **Start new attack** and let Johnny run John the Ripper against the hash.
 6. Successfully recovered the password for the locked PDF.
 
-   ![Locked PDF 1 flag captured](screenshots/PM1_locked1.PNG)
+   ![Locked PDF 1 flag captured](PM1_locked1.PNG)
 
-   ![Locked PDF 3 flag captured](screenshots/PM1_locked3.PNG)
+   ![Locked PDF 3 flag captured](PM1_locked3.PNG)
 
 ### What I Learned
 
@@ -68,12 +68,12 @@ Password cracking is the process of recovering passwords from stored data or pro
 2. To crack the password, the hash is first extracted (using a hash calculator/extractor).
 3. The extracted hash is then run through a cracking tool.
 
-   ![Dictionary attack in progress](screenshots/PM2_locked2.PNG)
+   ![Dictionary attack in progress](PM2_locked2.PNG)
 
 4. The tool performs a **dictionary attack**, testing different words from a wordlist against the hash until it finds a match.
 5. Once a match is found, the original password is revealed.
 
-   ![Password cracked successfully](screenshots/PM2_locked2_cracked_pwd.PNG)
+   ![Password cracked successfully](PM2_locked2_cracked_pwd.PNG)
 
 ### What I Learned
 
