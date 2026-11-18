@@ -110,4 +110,19 @@ All supporting screenshots are in the `screenshots/` folder:
 
 ---
 
+---
+
+# 👤 Author
+
+**Carlynda Amoah**\
+Cybersecurity Professional B084N
+
+LinkedIn: [https://www.linkedin.com/in/carlynda-amoah-530779292/](https://www.linkedin.com/in/carlynda-amoah-530779292/)
+
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity program at Networkwalks | **Week:** 03 | **Repository:** GitHub
+
 *Part of the Cybersecurity at Networkwalks internship program — Batch B084N*
